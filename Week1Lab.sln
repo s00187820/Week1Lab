@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1Lab", "Week1Lab\Week1Lab.csproj", "{C9316E20-3ACC-40F2-93CD-1945644BBA9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9316E20-3ACC-40F2-93CD-1945644BBA9E}.Debug|x86.ActiveCfg = Debug|x86
+		{C9316E20-3ACC-40F2-93CD-1945644BBA9E}.Debug|x86.Build.0 = Debug|x86
+		{C9316E20-3ACC-40F2-93CD-1945644BBA9E}.Release|x86.ActiveCfg = Release|x86
+		{C9316E20-3ACC-40F2-93CD-1945644BBA9E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4307A070-97A4-459B-9979-998FD7E69170}
+	EndGlobalSection
+EndGlobal
